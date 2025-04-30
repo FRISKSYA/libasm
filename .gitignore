@@ -1,6 +1,8 @@
 # libasm
 test
 a.out
+sample.s
+hello
 
 # Prerequisites
 *.d
